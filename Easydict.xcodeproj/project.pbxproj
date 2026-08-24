@@ -5094,10 +5094,10 @@
 		};
 		03A173E52CD120E600791B51 /* XCRemoteSwiftPackageReference "SelectedTextKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/tisfeng/SelectedTextKit.git";
+			repositoryURL = "https://github.com/hyperdai/SelectedTextKit.git";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 2.6.2;
+				kind = branch;
+				branch = main;
 			};
 		};
 		03A8308B2B405F8E00112834 /* XCRemoteSwiftPackageReference "Sparkle" */ = {

@@ -299,10 +299,10 @@
     {
       "identity" : "selectedtextkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tisfeng/SelectedTextKit.git",
+      "location" : "https://github.com/hyperdai/SelectedTextKit.git",
       "state" : {
-        "revision" : "17cdf1aa7093def4ea343cbecda1aa24dd32969c",
-        "version" : "2.6.4"
+        "branch" : "main",
+        "revision" : "fced3ce4f0badb464b525dc7fda8b7624e05f8a4"
       }
     },
     {
